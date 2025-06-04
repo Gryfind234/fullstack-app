@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e778f2c9-3b3c-47ce-8989-fb3031a2ab53" name="Changes" comment="Lab06Commit1">
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/eslint.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/public/vite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/src/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/src/api/authApi.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/src/api/axiosClient.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/src/api/transactionsApi.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/src/assets/react.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/src/components/CustomDialog/CustomDialog.module.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/src/components/CustomDialog/CustomDialog.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/src/components/ErrorMessage/ErrorMessage.module.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/src/components/ErrorMessage/ErrorMessage.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/src/components/HomePage/HomePage.module.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/src/components/HomePage/HomePage.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/src/components/Layout/Layout.module.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/src/components/Layout/Layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/src/components/Navbar/Navbar.module.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/src/components/Navbar/Navbar.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/src/components/TestApiComponent.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/src/components/TransactionForm/TransactionForm.module.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/src/components/TransactionForm/TransactionForm.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/src/components/TransactionList/TransactionList.module.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/src/components/TransactionList/TransactionList.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/src/main.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/src/pages/AddTransactionPage/AddTransactionPage.module.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/src/pages/AddTransactionPage/AddTransactionPage.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/src/pages/LoginPage/Login.Page.module.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/src/pages/LoginPage/LoginPage.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/src/pages/RegisterPage/RegisterPage.module.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/src/pages/RegisterPage/RegisterPage.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/src/pages/TransactionListPage/TransactioListPage.module.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/src/pages/TransactionListPage/TransactionsListPage.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/src/routes/AppRouter.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/src/styles/global.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/src/styles/variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/src/types/transaction.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/src/vite-env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/tsconfig.node.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/budget_app-main/vite.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/budget_app-main/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/PaSiRPawlikJakubK02Lab01Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/config/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/config/JwtAuthFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/config/WebConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/config/WebSecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/controller/AppInfoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/controller/AuthController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/controller/DebtGraphQLController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/controller/GroupGraphQLController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/controller/GroupTransactionGraphQLController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/controller/MembershipGraphQLController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/controller/TestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/controller/TransactionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/controller/TransactionGraphQLController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/dto/BalanceDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/dto/DebtDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/dto/GroupDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/dto/GroupResponseDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/dto/GroupTransactionDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/dto/LoginDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/dto/MembershipDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/dto/MembershipResponseDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/dto/TransactionDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/dto/UserDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/exception/GlobalExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/exception/GraphQLExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/model/Debt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/model/Group.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/model/Membership.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/model/Transaction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/model/TransactionType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/repository/DebtRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/repository/GroupRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/repository/MembershipRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/repository/TransactionRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/security/JwtUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/service/DebtService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/service/GroupService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/service/GroupTransactionService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/service/MembershipService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/service/TransactionService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/java/com/example/pasir_pawlik_jakub_k02_lab01/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/main/resources/graphql/schema.graphqls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PASiR_PAWLIK_JAKUB_K02_LAB01/src/test/java/com/example/pasir_pawlik_jakub_k02_lab01/PaSiRPawlikJakubK02Lab01ApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EndpointsView">
+    <option name="showSidePanel" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="GraphQL File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../.." value="Lab05" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Gryfind234&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/PK-M-07/pasjava-lk02-lab1-Gryfind234&quot;,
+    &quot;accountId&quot;: &quot;95806166-2d05-4c67-bf63-019dee7af84e&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2uGzcELxhdPPxra4YgJDTScdGkK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Spring Boot.PaSiRPawlikJakubK02Lab01Application.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Lab06&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Pobrane/PASiR_Lab06_Jakub_Pawlik&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\java\\lab1\\PASiR_PAWLIK_JAKUB_K02_LAB01\\budget_app\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="PaSiRPawlikJakubK02Lab01Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="BudgetApp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.pasir_pawlik_jakub_k02_lab01.PaSiRPawlikJakubK02Lab01Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.59" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.59" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="StructureViewState">
+    <option name="selectedTab" value="Logical" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e778f2c9-3b3c-47ce-8989-fb3031a2ab53" name="Changes" comment="" />
+      <created>1741889776950</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741889776950</updated>
+      <workItem from="1741889777862" duration="3514000" />
+      <workItem from="1742125354858" duration="3864000" />
+      <workItem from="1742135512900" duration="2346000" />
+      <workItem from="1742143595306" duration="16000" />
+      <workItem from="1742143623159" duration="14000" />
+      <workItem from="1742224680822" duration="5022000" />
+      <workItem from="1743010571656" duration="2478000" />
+      <workItem from="1743109283817" duration="3747000" />
+      <workItem from="1743429221268" duration="64000" />
+      <workItem from="1743430645002" duration="5129000" />
+      <workItem from="1744131015051" duration="595000" />
+      <workItem from="1744215004501" duration="3241000" />
+      <workItem from="1744220052115" duration="879000" />
+      <workItem from="1744634419363" duration="254000" />
+      <workItem from="1744634682758" duration="3418000" />
+      <workItem from="1744638865299" duration="140000" />
+      <workItem from="1744640638229" duration="734000" />
+      <workItem from="1744641461157" duration="3587000" />
+      <workItem from="1744905215129" duration="1202000" />
+      <workItem from="1745775094218" duration="6150000" />
+      <workItem from="1745831594303" duration="3176000" />
+      <workItem from="1745849616549" duration="3953000" />
+      <workItem from="1745928853238" duration="1615000" />
+      <workItem from="1747059677852" duration="3821000" />
+      <workItem from="1747909856939" duration="314000" />
+      <workItem from="1747910181817" duration="4177000" />
+      <workItem from="1748165905127" duration="5320000" />
+      <workItem from="1748171547524" duration="8120000" />
+      <workItem from="1748257099690" duration="2066000" />
+      <workItem from="1748263716437" duration="4315000" />
+      <workItem from="1748269348818" duration="908000" />
+      <workItem from="1748272727166" duration="771000" />
+      <workItem from="1748273511531" duration="19000" />
+      <workItem from="1748273594041" duration="287000" />
+      <workItem from="1748273905631" duration="224000" />
+      <workItem from="1749046928457" duration="785000" />
+      <workItem from="1749047759086" duration="574000" />
+      <workItem from="1749057424760" duration="100000" />
+    </task>
+    <task id="LOCAL-00001" summary="CommitCalkiemNowyTyleRazyZepsolemZeTerazMusiBycGIT">
+      <option name="closed" value="true" />
+      <created>1741890940988</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741890940988</updated>
+    </task>
+    <task id="LOCAL-00002" summary="CommitCalkiemNowyTyleRazyZepsolemZeTerazMusiBycGIT2">
+      <option name="closed" value="true" />
+      <created>1741890976210</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1741890976210</updated>
+    </task>
+    <task id="LOCAL-00003" summary="CommitCalkiemNowyTyleRazyZepsolemZeTerazMusiBycGIT2">
+      <option name="closed" value="true" />
+      <created>1741891041937</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741891041937</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ApiBudzetowa">
+      <option name="closed" value="true" />
+      <created>1742134181886</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742134181886</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ApiBudzetowa">
+      <option name="closed" value="true" />
+      <created>1743112971803</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1743112971803</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Lab03Commit1">
+      <option name="closed" value="true" />
+      <created>1743434867498</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1743434867498</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Lab03Commit1">
+      <option name="closed" value="true" />
+      <created>1744220193779</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1744220193779</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Lab04Commit1">
+      <option name="closed" value="true" />
+      <created>1744644951752</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1744644951752</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Lab04Commit2">
+      <option name="closed" value="true" />
+      <created>1745853562664</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1745853562664</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Lab05Commit1">
+      <option name="closed" value="true" />
+      <created>1748180826206</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1748180826206</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Lab06Commit1">
+      <option name="closed" value="true" />
+      <created>1748272597414</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1748272597414</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/Lab06" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="nowy_znow" />
+    <MESSAGE value="CommitCalkiemNowyTyleRazyZepsolemZeTerazMusiBycGIT" />
+    <MESSAGE value="CommitCalkiemNowyTyleRazyZepsolemZeTerazMusiBycGIT2" />
+    <MESSAGE value="ApiBudzetowa" />
+    <MESSAGE value="Lab03Commit1" />
+    <MESSAGE value="Lab04Commit1" />
+    <MESSAGE value="Lab04Commit2" />
+    <MESSAGE value="Lab05Commit1" />
+    <MESSAGE value="Lab06Commit1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab06Commit1" />
+  </component>
+</project>
